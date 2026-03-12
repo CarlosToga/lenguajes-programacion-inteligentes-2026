@@ -23,10 +23,11 @@ Proyecto de simulación interactiva en Pygame donde se desarrollarán agentes co
 
 - ## Sesión 4 – Movimiento con NumPy
 
-Se implementa el movimiento del agente usando vectores de NumPy.
+Se implementa el movimiento del agente utilizando vectores de NumPy.
 
-Características:
-- uso de arrays para representar posición y dirección
+Ventajas del uso de NumPy:
+
+- operaciones vectorizadas más eficientes
 - normalización de vectores
-- velocidad constante incluso en diagonales
+- velocidad constante en movimiento diagonal
 - estructura preparada para comportamientos inteligentes
