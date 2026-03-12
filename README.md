@@ -20,3 +20,13 @@ Proyecto de simulación interactiva en Pygame donde se desarrollarán agentes co
 - Definición de vértices en coordenadas locales.
 - Aplicación de rotación 2D usando una función matemática.
 - Inicialización del agente con un ángulo diferente de 0° para verificar la rotación.
+
+- ## Sesión 4 – Movimiento con NumPy
+
+Se implementa el movimiento del agente usando vectores de NumPy.
+
+Características:
+- uso de arrays para representar posición y dirección
+- normalización de vectores
+- velocidad constante incluso en diagonales
+- estructura preparada para comportamientos inteligentes
