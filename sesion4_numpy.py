@@ -83,3 +83,4 @@ while corriendo:
 
 pygame.quit()
 sys.exit()
+
