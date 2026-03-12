@@ -75,6 +75,7 @@ while corriendo:
     pantalla.fill((0,0,0))
 
     agente.mover()
+    
 
     agente.dibujar(pantalla)
 
